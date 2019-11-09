@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Spiros Bakiras"
   avatar           : "profile.png"
-  bio              : "Associate Professor"
-  location         : "https://www.google.com/maps/@25.3148996,51.4363314,17.58z"
+  bio              : "Associate Professor, Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University"
+  location         : "Doha, Qatar"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rpzKBjQAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8964-0746"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
