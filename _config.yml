@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Spiros Bakiras"
   avatar           : "profile.png"
-  bio              : "Associate Professor, Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University"
+  bio              : "Associate Professor"
   location         : "Doha, Qatar"
   employer         :
   pubmed           : 
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : "https://dblp.uni-trier.de/pers/hd/b/Bakiras:Spiridon"
 
 
 # Reading Files
