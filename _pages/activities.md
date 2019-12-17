@@ -4,12 +4,12 @@ title: "Professional Activities"
 author_profile: true
 ---
 
-### Conference organization 
+## Conference organization 
 
 * Track Co-Chair - IEEE Symposium on Person, Indoor, and Mobile Radio Communications (PIMRC), 2015
 * Publicity Chair - IEEE International Conference on Mobile Data Management (MDM), 2013
 
-### Program committee memberships
+## Program committee memberships
 
 **2019**
 * International Symposium on Spatial and Temporal Databases (SSTD)
