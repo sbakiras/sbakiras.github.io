@@ -12,7 +12,7 @@ N. Mamoulis, S. Bakiras, and P. Kalnis, “Top-k OLAP queries using augmented sp
 
 ## Journal papers 
 
-E. Troja and S. Bakiras, “Optimizing privacy-preserving DSA for mobile clients,” in Ad Hoc Networks, 59:71-85, May 2017. 
+E. Troja and S. Bakiras, “[Optimizing privacy-preserving DSA for mobile clients](https://sbakiras.github.io/papers/adhoc_dsa.pdf),” in Ad Hoc Networks, 59:71-85, May 2017. 
 
 B. Mu and S. Bakiras, “Private proximity detection for convex polygons,” in Tsinghua Science and Technology, 21(3):270-280, June 2016. 
 
