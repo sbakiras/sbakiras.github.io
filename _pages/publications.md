@@ -12,6 +12,8 @@ N. Mamoulis, S. Bakiras, and P. Kalnis, “Top-k OLAP queries using augmented sp
 
 ## Journal papers 
 
+M. M. Rathore, M. J. Gul, A. Paul, A. A. Khan, R. W. Ahmad, J. J. P. C. Rodrigues, and S. Bakiras, “[Multilevel graph-based decision making in big scholarly data: an approach to identify expert reviewer, finding quality impact factor, ranking journals and researchers](https://sbakiras.github.io/papers/tetc18.pdf),” in IEEE Transactions on Emerging Topics in Computing, September 2018.
+
 E. Troja and S. Bakiras, “[Optimizing privacy-preserving DSA for mobile clients](https://sbakiras.github.io/papers/adhoc_dsa.pdf),” in Ad Hoc Networks, 59:71-85, May 2017. 
 
 B. Mu and S. Bakiras, “Private proximity detection for convex polygons,” in Tsinghua Science and Technology, 21(3):270-280, June 2016. 
