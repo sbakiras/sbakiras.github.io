@@ -5,16 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Hamad Bin Khalifa University
+### Hamad Bin Khalifa University
 
 Applied cryptography (graduate) - Fall'16
 
-## Michigan Tech
+### Michigan Tech
 
 Introduction to algorithms - Fall'15
 Software quality assurance - Spring'16
 
-## John Jay College, CUNY
+### John Jay College, CUNY
 
 Applied cryptography (graduate) - Spring'12, Spring'14, Spring'15
 Architecture of secure operating systems (graduate) - Fall'13
@@ -28,12 +28,12 @@ Object oriented programming - Fall'07, Fall'08, Fall'09
 Programming languages - Spring'07
 Introduction to computing and programming - Fall'06, Spring'08
 
-## Hong Kong University of Science and Technology
+### Hong Kong University of Science and Technology
 
 Introduction to computing with Java - Fall'12
 Network security - Spring'13
 
-## University of Hong Kong
+### University of Hong Kong
 
 Queueing theory - Fall'01, Fall'02, Fall'03
 System modeling and performance analysis - Spring'03, Spring'04
