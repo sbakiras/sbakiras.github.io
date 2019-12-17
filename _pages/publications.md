@@ -47,58 +47,70 @@ S. Bakiras and V. O. K. Li, “[Maximizing the number of users in an interactive
 
 ## Conference proceedings 
 
-S. Bakiras, E. Troja, and X. Xu, “An anonymous messaging system for delay tolerant networks,” in Proc. IEEE International Conference on Communications (ICC), May 2017.
+E. Bentafat, M. M. Rathore, and S. Bakiras, “[A practical system for privacy-preserving video surveillance](https://sbakiras.github.io/papers/acns20.pdf),” in _Proc. International Conference on Applied Cryptography and Network Security (ACNS)_, June 2020. 
 
-E. Troja and S. Bakiras, “Privacy-preserving location-aware mobile advertising,” in IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), August 2016.
+K. Yao, D. Papadias, and S. Bakiras, “[Density-based community detection in geo-social networks](https://sbakiras.github.io/papers/sstd19.pdf),” in _Proc. International Symposium on Spatial and Temporal Databases (SSTD)_, August 2019.
 
-E. Troja and S. Bakiras, “Efficient location privacy for moving clients in database-driven dynamic spectrum access,” in Proc. IEEE International Conference on Computer Communications and Networks (ICCCN), August 2015.
+M. M. Rathore, E. Bentafat, and S. Bakiras, “[Smart home security: A distributed identity-based security protocol for authentication and key exchange](https://sbakiras.github.io/papers/icccn19.pdf),” in _Proc. IEEE International Conference on Computer Communications and Networks (ICCCN)_, July 2019.
 
-E. Troja and S. Bakiras, “Leveraging P2P interactions for efficient location privacy in database-driven dynamic spectrum access,” in Proc. ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS), November 2014 (poster).
+A. K. Abdulla and S. Bakiras, “[HITC: Data privacy in online social networks with fine-grained access control](https://sbakiras.github.io/papers/sacmat19.pdf),” in _Proc. ACM Symposium on Access Control Models and Technologies (SACMAT)_, June 2019.
 
-S. Buyrukbilen and S. Bakiras, “Privacy-preserving ranked search on public-key encrypted data,” in Proc. IEEE International Conference on High Performance Computing and Communications (HPCC), November 2013. 
+X. Xu, Y. Zhao, D. Zhao, L. Yang, and S. Bakiras, “[Distributed real-time data aggregation scheduling in duty-cycled multi-hop sensor networks](https://sbakiras.github.io/papers/wasa19.pdf),” in _Proc. International Conference on Wireless Algorithms, Systems and Applications (WASA)_, June 2019.
 
-S. Buyrukbilen and S. Bakiras, “Secure similar document detection with simhash,” in Proc. VLDB Workshop on Secure Data Management (SDM), August 2013. 
+E. M. Radi, N. Lasla, S. Bakiras, and M. Mahmoud, “[Privacy-preserving electric vehicle charging for peer-to-peer energy trading ecosystems](https://sbakiras.github.io/papers/icc19.pdf),” in _Proc. IEEE International Conference on Communications (ICC)_, May 2019.
 
-B. Mu and S. Bakiras, “Private proximity detection for convex polygons,” in Proc. ACM Workshop on Data Engineering for Wireless and Mobile Access (MobiDE), pp. 36-43, June 2013. 
+S. Bakiras, E. Troja, and X. Xu, “[An anonymous messaging system for delay tolerant networks](https://sbakiras.github.io/papers/icc17.pdf),” in _Proc. IEEE International Conference on Communications (ICC)_, May 2017.
 
-S. Bakiras and K. F. Nikolopoulos, “Adjusting the trade-off between privacy guarantees and computational cost in secure hardware PIR,” in Proc. VLDB Workshop on Secure Data Management (SDM), pp. 128-144, September 2011. 
+E. Troja and S. Bakiras, “[Privacy-preserving location-aware mobile advertising](https://sbakiras.github.io/papers/trustcom16.pdf),” in _Proc. IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)_, August 2016.
 
-L. Hu, W.-S. Ku, S. Bakiras, and C. Shahabi, “Verifying spatial queries using Voronoi neighbors,” in Proc. ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS), November 2010.
+E. Troja and S. Bakiras, “[Efficient location privacy for moving clients in database-driven dynamic spectrum access](https://sbakiras.github.io/papers/icccn15.pdf),” in _Proc. IEEE International Conference on Computer Communications and Networks (ICCCN)_, August 2015.
 
-S. Papadopoulos, Y. Yang, S. Bakiras, and D. Papadias, “Continuous spatial authentication,” in Proc. International Symposium on Spatial and Temporal Databases (SSTD), pp. 62-79, July 2009. 
+E. Troja and S. Bakiras, “[Leveraging P2P interactions for efficient location privacy in database-driven dynamic spectrum access](https://sbakiras.github.io/papers/gis14.pdf),” in _Proc. ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS)_, November 2014 (poster).
 
-N. Vyahhi, S. Bakiras, P. Kalnis, and G. Ghinita, “Tracking moving objects in anonymized trajectories,” in Proc. International Conference on Database and Expert Systems Applications (DEXA), pp. 158-171, September 2008. 
+S. Buyrukbilen and S. Bakiras, “[Privacy-preserving ranked search on public-key encrypted data](https://sbakiras.github.io/papers/hpcc13.pdf),” in _Proc. IEEE International Conference on High Performance Computing and Communications (HPCC)_, November 2013. 
 
-M. L. Yiu, N. Mamoulis, and S. Bakiras, “Retrieval of spatial join pattern instances from sensor networks,” in Proc. International Conference on Scientific and Statistical Database Management (SSDBM), July 2007. 
+S. Buyrukbilen and S. Bakiras, “[Secure similar document detection with simhash](https://sbakiras.github.io/papers/sdm13.pdf),” in _Proc. VLDB Workshop on Secure Data Management (SDM)_, August 2013. 
 
-K. Mouratidis, S. Bakiras, and D. Papadias, “Continuous monitoring of top-k queries over sliding windows,” in Proc. ACM International Conference on Management of Data (SIGMOD), pp. 635-646, June 2006. 
+B. Mu and S. Bakiras, “[Private proximity detection for convex polygons](https://sbakiras.github.io/papers/mobide13.pdf),” in _Proc. ACM Workshop on Data Engineering for Wireless and Mobile Access (MobiDE)_, pp. 36-43, June 2013. 
 
-P. Kalnis, N. Mamoulis, S. Bakiras, and X. Li, “Ad-hoc distributed spatial joins on mobile devices,” in Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS), April 2006. 
+S. Bakiras and K. F. Nikolopoulos, “[Adjusting the trade-off between privacy guarantees and computational cost in secure hardware PIR](https://sbakiras.github.io/papers/sdm11.pdf),” in _Proc. VLDB Workshop on Secure Data Management (SDM)_, pp. 128-144, September 2011. 
 
-N. Mamoulis, S. Bakiras, and P. Kalnis, “Evaluation of top-k OLAP queries using aggregate R-trees,” in Proc. International Symposium on Spatial and Temporal Databases (SSTD), pp. 236-253, August 2005. 
+L. Hu, W.-S. Ku, S. Bakiras, and C. Shahabi, “[Verifying spatial queries using Voronoi neighbors](https://sbakiras.github.io/papers/gis10.pdf),” in _Proc. ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (GIS)_, November 2010.
 
-P. Kalnis, N. Mamoulis, and S. Bakiras, “On discovering moving clusters in spatio-temporal data,” in Proc. International Symposium on Spatial and Temporal Databases (SSTD), pp. 364-381, August 2005. 
+S. Papadopoulos, Y. Yang, S. Bakiras, and D. Papadias, “[Continuous spatial authentication](https://sbakiras.github.io/papers/sstd09.pdf),” in _Proc. International Symposium on Spatial and Temporal Databases (SSTD)_, pp. 62-79, July 2009. 
 
-M. Terrovitis, S. Bakiras, D. Papadias, and K. Mouratidis, “Constrained shortest path computation,” in Proc. International Symposium on Spatial and Temporal Databases (SSTD), pp. 181-199, August 2005. 
+N. Vyahhi, S. Bakiras, P. Kalnis, and G. Ghinita, “[Tracking moving objects in anonymized trajectories](https://sbakiras.github.io/papers/dexa08.pdf),” in _Proc. International Conference on Database and Expert Systems Applications (DEXA)_, pp. 158-171, September 2008. 
 
-S. Bakiras, “Approximate server selection algorithms in content distribution networks,” in Proc. IEEE International Conference on Communications (ICC), pp. 1490-1494, May 2005. 
+M. L. Yiu, N. Mamoulis, and S. Bakiras, “[Retrieval of spatial join pattern instances from sensor networks](https://sbakiras.github.io/papers/ssdbm07.pdf),” in _Proc. International Conference on Scientific and Statistical Database Management (SSDBM)_, July 2007. 
 
-S. T. Goh, P. Kalnis, S. Bakiras, and K. L. Tan, “Real datasets for file-sharing peer-to-peer systems,” in Proc. International Conference on Database Systems for Advanced Applications (DASFAA), pp. 201-213, April 2005. 
+K. Mouratidis, S. Bakiras, and D. Papadias, “[Continuous monitoring of top-k queries over sliding windows](https://sbakiras.github.io/papers/sigmod06.pdf),” in _Proc. ACM International Conference on Management of Data (SIGMOD)_, pp. 635-646, June 2006. 
 
-S. Bakiras and T. Loukopoulos, “Increasing the performance of CDNs using replication and caching: A hybrid approach, ” in Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS), April 2005. 
+P. Kalnis, N. Mamoulis, S. Bakiras, and X. Li, “[Ad-hoc distributed spatial joins on mobile devices](https://sbakiras.github.io/papers/ipdps06.pdf),” in _Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS)_, April 2006. 
 
-P. K. C. Tse, S. Bakiras, and K. K. Wong, “On providing QoS guarantees for real-time multimedia streams,” in Proc. International Conference on Advances in Mobile Multimedia, September 2004. 
+N. Mamoulis, S. Bakiras, and P. Kalnis, “[Evaluation of top-k OLAP queries using aggregate R-trees](https://sbakiras.github.io/papers/sstd05_olap.pdf),” in _Proc. International Symposium on Spatial and Temporal Databases (SSTD)_, pp. 236-253, August 2005. 
 
-N. Mamoulis, P. Kalnis, S. Bakiras, and X. Li, “Optimization of spatial joins on mobile devices,” in Proc. International Symposium on Spatial and Temporal Databases (SSTD), pp. 233-251, July 2003. 
+P. Kalnis, N. Mamoulis, and S. Bakiras, “[On discovering moving clusters in spatio-temporal data](https://sbakiras.github.io/papers/sstd05_mc.pdf),” in _Proc. International Symposium on Spatial and Temporal Databases (SSTD)_, pp. 364-381, August 2005. 
 
-S. Bakiras, T. Loukopoulos, and I. Ahmad, “Dynamic organization schemes for cooperative proxy caching,” in Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 48-55, April 2003. 
+M. Terrovitis, S. Bakiras, D. Papadias, and K. Mouratidis, “[Constrained shortest path computation](https://sbakiras.github.io/papers/sstd05_csp.pdf),” in _Proc. International Symposium on Spatial and Temporal Databases (SSTD)_, pp. 181-199, August 2005. 
 
-S. Bakiras, P. Kalnis, T. Loukopoulos, and W. S. Ng, “A general framework for searching in distributed data repositories,” in Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 34-41, April 2003. 
+S. Bakiras, “[Approximate server selection algorithms in content distribution networks](https://sbakiras.github.io/papers/icc05.pdf),” in _Proc. IEEE International Conference on Communications (ICC)_, pp. 1490-1494, May 2005. 
 
-S. Bakiras and V. O. K. Li, “Efficient resource management for end-to-end QoS guarantees in DiffServ networks,” in Proc. IEEE International Conference on Communications (ICC), pp. 1220-1224, April 2002. 
+S. T. Goh, P. Kalnis, S. Bakiras, and K. L. Tan, “[Real datasets for file-sharing peer-to-peer systems](https://sbakiras.github.io/papers/dasfaa05.pdf),” in _Proc. International Conference on Database Systems for Advanced Applications (DASFAA)_, pp. 201-213, April 2005. 
 
-S. Bakiras and V. O. K. Li, “Quality of service support in differentiated services packet networks,” in Proc. IEEE International Conference on Communications (ICC), pp. 2370-2374, June 2001. 
+S. Bakiras and T. Loukopoulos, “[Increasing the performance of CDNs using replication and caching: A hybrid approach](https://sbakiras.github.io/papers/ipdps05.pdf), ” in _Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS)_, April 2005. 
 
-S. Bakiras and V. O. K. Li, “Maximizing Network Utilization for Streaming Video,” in Proc. Asia Pacific Conference on Multimedia Technology and Applications, pp. 27-35, December 2000. 
+P. K. C. Tse, S. Bakiras, and K. K. Wong, “On providing QoS guarantees for real-time multimedia streams,” in _Proc. International Conference on Advances in Mobile Multimedia_, September 2004. 
 
-S. Bakiras and V. O. K. Li, “Smoothing and prefetching video from distributed servers,” in Proc. IEEE International Conference on Network Protocols (ICNP), pp. 311-318, October 1999.
+N. Mamoulis, P. Kalnis, S. Bakiras, and X. Li, “[Optimization of spatial joins on mobile devices](https://sbakiras.github.io/papers/sstd03.pdf),” in _Proc. International Symposium on Spatial and Temporal Databases (SSTD)_, pp. 233-251, July 2003. 
+
+S. Bakiras, T. Loukopoulos, and I. Ahmad, “[Dynamic organization schemes for cooperative proxy caching](https://sbakiras.github.io/papers/ipdps03_web.pdf),” in _Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS)_, pp. 48-55, April 2003. 
+
+S. Bakiras, P. Kalnis, T. Loukopoulos, and W. S. Ng, “[A general framework for searching in distributed data repositories](https://sbakiras.github.io/papers/ipdps03_p2p.pdf),” in _Proc. IEEE International Parallel and Distributed Processing Symposium (IPDPS)_, pp. 34-41, April 2003. 
+
+S. Bakiras and V. O. K. Li, “[Efficient resource management for end-to-end QoS guarantees in DiffServ networks](https://sbakiras.github.io/papers/icc02.pdf),” in _Proc. IEEE International Conference on Communications (ICC)_, pp. 1220-1224, April 2002. 
+
+S. Bakiras and V. O. K. Li, “[Quality of service support in differentiated services packet networks](https://sbakiras.github.io/papers/icc01.pdf),” in _Proc. IEEE International Conference on Communications (ICC)_, pp. 2370-2374, June 2001. 
+
+S. Bakiras and V. O. K. Li, “[Maximizing Network Utilization for Streaming Video](https://sbakiras.github.io/papers/apcmta00.pdf),” in _Proc. Asia Pacific Conference on Multimedia Technology and Applications_, pp. 27-35, December 2000. 
+
+S. Bakiras and V. O. K. Li, “[Smoothing and prefetching video from distributed servers](https://sbakiras.github.io/papers/icnp99.pdf),” in _Proc. IEEE International Conference on Network Protocols (ICNP)_, pp. 311-318, October 1999.
