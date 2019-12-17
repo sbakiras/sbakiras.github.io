@@ -1,5 +1,5 @@
 ---
-permalink: /terms/
+permalink: /research/
 title: "Research"
 modified: 2019-12-17
 ---
