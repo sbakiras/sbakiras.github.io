@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Book chapters 
+## Book chapters 
 
 N. Mamoulis, S. Bakiras, and P. Kalnis, “Top-k OLAP queries using augmented spatial access methods,” in Encyclopedia of GIS, Springer, pp. 1156-1161, 2008. 
 
 
-Journal papers 
+## Journal papers 
 
 E. Troja and S. Bakiras, “Optimizing privacy-preserving DSA for mobile clients,” in Ad Hoc Networks, 59:71-85, May 2017. 
 
@@ -43,7 +43,7 @@ S. Bakiras and V. O. K. Li, “A scalable architecture for end-to-end QoS provis
 S. Bakiras and V. O. K. Li, “Maximizing the number of users in an interactive video-on-demand system,” in IEEE Transactions on Broadcasting, 48(4):281-292, December 2002. 
 
 
-Conference proceedings 
+## Conference proceedings 
 
 S. Bakiras, E. Troja, and X. Xu, “An anonymous messaging system for delay tolerant networks,” in Proc. IEEE International Conference on Communications (ICC), May 2017.
 
