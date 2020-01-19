@@ -10,7 +10,8 @@ author_profile: true
 * Applied cryptography (graduate) – Fall'16, Fall'17
 * Network forensics (graduate) – Fall'18, Fall'19
 * Security risk analysis (graduate) – Spring'17, Spring'18
-* Introduction to computer systems – Spring'19, Spring'20
+* Introduction to computer systems – Spring'19
+* Principles of imperative computing - Spring'20
 * Cybersecurity fundamentals – Fall'19
 
 ### Michigan Tech
