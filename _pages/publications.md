@@ -12,6 +12,8 @@ N. Mamoulis, S. Bakiras, and P. Kalnis, “Top-k OLAP queries using augmented sp
 
 ## Journal papers 
 
+S. Bakiras, E. Troja, X. Xu, and J. F. Naves, "[Secure and anonymous communications over delay tolerant networks](https://sbakiras.github.io/papers/access-dtn.pdf)," in _IEEE Access_, 8(1):88158-88169, December 2020.
+
 M. M. Rathore, M. J. Gul, A. Paul, A. A. Khan, R. W. Ahmad, J. J. P. C. Rodrigues, and S. Bakiras, “[Multilevel graph-based decision making in big scholarly data: an approach to identify expert reviewer, finding quality impact factor, ranking journals and researchers](https://sbakiras.github.io/papers/tetc18.pdf),” in _IEEE Transactions on Emerging Topics in Computing_, September 2018.
 
 E. Troja and S. Bakiras, “[Optimizing privacy-preserving DSA for mobile clients](https://sbakiras.github.io/papers/adhoc_dsa.pdf),” in _Ad Hoc Networks_, 59:71-85, May 2017. 
