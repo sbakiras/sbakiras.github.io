@@ -7,14 +7,22 @@ author_profile: true
 
 ## Book chapters 
 
-N. Mamoulis, S. Bakiras, and P. Kalnis, “Top-k OLAP queries using augmented spatial access methods,” in _Encyclopedia of GIS_, Springer, pp. 1156-1161, 2008. 
+S. Bakiras, "Anonymous communications over delay tolerant networks," in _Encyclopedia of Cryptography and Security_, Springer, to appear.
+
+N. Mamoulis, S. Bakiras, and P. Kalnis, "Top-k OLAP queries using augmented spatial access methods," in _Encyclopedia of GIS_, Springer, pp. 1156-1161, 2008. 
 
 
 ## Journal papers 
 
-S. Bakiras, E. Troja, X. Xu, and J. F. Naves, "[Secure and anonymous communications over delay tolerant networks](https://sbakiras.github.io/papers/access-dtn.pdf)," in _IEEE Access_, 8(1):88158-88169, December 2020.
+P. Tedeschi, S. Bakiras, and R. Di Pietro, “[IoTrace: A flexible, efficient, and privacy-preserving IoT-enabled architecture for contact tracing](https://sbakiras.github.io/papers/commag-iotrace.pdf),” in _IEEE Communications Magazine_, accepted.
 
-M. M. Rathore, M. J. Gul, A. Paul, A. A. Khan, R. W. Ahmad, J. J. P. C. Rodrigues, and S. Bakiras, “[Multilevel graph-based decision making in big scholarly data: an approach to identify expert reviewer, finding quality impact factor, ranking journals and researchers](https://sbakiras.github.io/papers/tetc18.pdf),” in _IEEE Transactions on Emerging Topics in Computing_, September 2018.
+E. Bentafat, M. M. Rathore, and S. Bakiras, “[Privacy-preserving multi-point traffic flow estimation for road networks](https://sbakiras.github.io/papers/scn-flow.pdf),” in _Security and Communication Networks Journal_, 2021.
+
+M. M. Rathore, S. A. Shah, D. Shukla, E. Bentafat, and S. Bakiras, “[The role of AI, machine learning, and big data in digital twinning: A systematic literature review, challenges, and opportunities](https://sbakiras.github.io/papers/access-dt.pdf),” in _IEEE Access_, 9(1):32030–32052, February 2021.
+
+M. M. Rathore, M. J. Gul, A. Paul, A. A. Khan, R. W. Ahmad, J. J. P. C. Rodrigues, and S. Bakiras, “[Multilevel graph-based decision making in big scholarly data: an approach to identify expert reviewer, finding quality impact factor, ranking journals and researchers](https://sbakiras.github.io/papers/tetc-scholar.pdf),” in _IEEE Transactions on Emerging Topics in Computing_, 9(1):280–292, 2021.
+
+S. Bakiras, E. Troja, X. Xu, and J. F. Naves, "[Secure and anonymous communications over delay tolerant networks](https://sbakiras.github.io/papers/access-dtn.pdf)," in _IEEE Access_, 8(1):88158-88169, December 2020.
 
 E. Troja and S. Bakiras, “[Optimizing privacy-preserving DSA for mobile clients](https://sbakiras.github.io/papers/adhoc_dsa.pdf),” in _Ad Hoc Networks_, 59:71-85, May 2017. 
 
@@ -48,6 +56,8 @@ S. Bakiras and V. O. K. Li, “[Maximizing the number of users in an interactive
 
 
 ## Conference proceedings 
+
+E. Bentafat, M. M. Rathore, and S. Bakiras, “[Privacy-preserving traffic flow estimation for road networks](https://sbakiras.github.io/papers/globecom20.pdf),” in _Proc. IEEE Global Communications Conference (GLOBECOM)_, December 2020.
 
 E. Bentafat, M. M. Rathore, and S. Bakiras, “[A practical system for privacy-preserving video surveillance](https://sbakiras.github.io/papers/acns20.pdf),” in _Proc. International Conference on Applied Cryptography and Network Security (ACNS)_, June 2020. 
 
