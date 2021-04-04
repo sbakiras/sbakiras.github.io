@@ -4,12 +4,28 @@ title: "Professional Activities"
 author_profile: true
 ---
 
+## Editorial board memberships 
+
+* (2020-present) Associate Editor of Security, Privacy and Authentication—Frontiers in Communications and Networks Journal
+* (2021-present) Associate Editor of Security and Communication Networks Journal
+
 ## Conference organization 
 
 * Track Co-Chair - IEEE Symposium on Person, Indoor, and Mobile Radio Communications (PIMRC), 2015
 * Publicity Chair - IEEE International Conference on Mobile Data Management (MDM), 2013
 
 ## Program committee memberships
+
+**2021**
+* International Symposium on Spatial and Temporal Databases (SSTD)
+* International Conference on Database Systems for Advanced Applications (DASFAA)
+* International Conference on Digital Forensics & Cyber Crime (ICDF2C)
+* International Workshop on Cryptocurrencies and Blockchain Technology (CBT)
+
+**2020**
+* International Conference on Digital Forensics & Cyber Crime (ICDF2C)
+* IEEE Global Communications Conference (GLOBECOM)
+* IEEE International Conference on Embedded and Ubiquitous Computing (EUC)
 
 **2019**
 * International Symposium on Spatial and Temporal Databases (SSTD)
