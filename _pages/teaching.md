@@ -8,10 +8,10 @@ author_profile: true
 ### Hamad Bin Khalifa University
 
 * Applied cryptography (graduate) – Fall'16, Fall'17
-* Network forensics (graduate) – Fall'18, Fall'19
+* Network forensics (graduate) – Fall'18, Fall'19, Fall'20
 * Security risk analysis (graduate) – Spring'17, Spring'18
 * Introduction to computer systems – Spring'19
-* Principles of imperative computing - Spring'20
+* Principles of imperative computing - Spring'20, Spring'21
 * Cybersecurity fundamentals – Fall'19
 
 ### Michigan Tech
