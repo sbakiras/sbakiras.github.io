@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Spiros Bakiras @ HBKU"
+title                    : "Spiros Bakiras @ SIT"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,11 +83,11 @@ author:
   name             : "Spiros Bakiras"
   avatar           : "profile.png"
   bio              : "Associate Professor"
-  location         : "Doha, Qatar"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rpzKBjQAAAAJ&hl=en"
-  email            : "sbakiras@hbku.edu.qa"
+  email            : "spiridon.bakiras@singaporetech.edu.sg"
   researchgate     : "https://www.researchgate.net/profile/Spiridon_Bakiras"
   uri              :
   bitbucket        :
