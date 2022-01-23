@@ -14,45 +14,53 @@ N. Mamoulis, S. Bakiras, and P. Kalnis, "Top-k OLAP queries using augmented spat
 
 ## Journal papers 
 
-P. Tedeschi, S. Bakiras, and R. Di Pietro, “[IoTrace: A flexible, efficient, and privacy-preserving IoT-enabled architecture for contact tracing](https://sbakiras.github.io/papers/commag-iotrace.pdf),” in _IEEE Communications Magazine_, accepted.
+H. Al-Shaibani, N. Lasla, M. Abdallah, and S. Bakiras, “[Privacy-preserving framework for blockchain-based stock exchange platform](https://sbakiras.github.io/papers/access-se.pdf),” in _IEEE Access_, 10:1202-1215, 2022.
+
+P. Tedeschi, K. Jeon, J. She, S. Wong, S. Bakiras, and R. Di Pietro, “[Privacy-preserving and sustainable contact tracing using batteryless BLE beacons](https://sbakiras.github.io/papers/sp-ble.pdf),” in _IEEE Security & Privacy_, to appear.
+
+M. Baza, A. Sherif, M. Mahmoud, S. Bakiras, W. Alasmary, M. Abdallah, and X. Lin, “[Privacy-preserving blockchain-based energy trading schemes for electric vehicles](https://sbakiras.github.io/papers/tvt-ev.pdf),” in _IEEE Transactions on Vehicular Technology_ 70(9):9369-9384, 2021.
+
+E. Bentafat, M. M. Rathore, and S. Bakiras, “[Towards real-time privacy-preserving video surveillance](https://sbakiras.github.io/papers/comcom-ppvs.pdf),” in _Computer Communications_, 180:97-108, 2021.
+
+P. Tedeschi, S. Bakiras, and R. Di Pietro, “[IoTrace: A flexible, efficient, and privacy-preserving IoT-enabled architecture for contact tracing](https://sbakiras.github.io/papers/commag-iotrace.pdf),” in _IEEE Communications Magazine_, 59(6):82-88, 2021.
 
 E. Bentafat, M. M. Rathore, and S. Bakiras, “[Privacy-preserving multi-point traffic flow estimation for road networks](https://sbakiras.github.io/papers/scn-flow.pdf),” in _Security and Communication Networks Journal_, 2021.
 
-M. M. Rathore, S. A. Shah, D. Shukla, E. Bentafat, and S. Bakiras, “[The role of AI, machine learning, and big data in digital twinning: A systematic literature review, challenges, and opportunities](https://sbakiras.github.io/papers/access-dt.pdf),” in _IEEE Access_, 9(1):32030–32052, February 2021.
+M. M. Rathore, S. A. Shah, D. Shukla, E. Bentafat, and S. Bakiras, “[The role of AI, machine learning, and big data in digital twinning: A systematic literature review, challenges, and opportunities](https://sbakiras.github.io/papers/access-dt.pdf),” in _IEEE Access_, 9:32030–32052, 2021.
 
 M. M. Rathore, M. J. Gul, A. Paul, A. A. Khan, R. W. Ahmad, J. J. P. C. Rodrigues, and S. Bakiras, “[Multilevel graph-based decision making in big scholarly data: an approach to identify expert reviewer, finding quality impact factor, ranking journals and researchers](https://sbakiras.github.io/papers/tetc-scholar.pdf),” in _IEEE Transactions on Emerging Topics in Computing_, 9(1):280–292, 2021.
 
-S. Bakiras, E. Troja, X. Xu, and J. F. Naves, "[Secure and anonymous communications over delay tolerant networks](https://sbakiras.github.io/papers/access-dtn.pdf)," in _IEEE Access_, 8(1):88158-88169, December 2020.
+S. Bakiras, E. Troja, X. Xu, and J. F. Naves, "[Secure and anonymous communications over delay tolerant networks](https://sbakiras.github.io/papers/access-dtn.pdf)," in _IEEE Access_, 8:88158-88169, 2020.
 
-E. Troja and S. Bakiras, “[Optimizing privacy-preserving DSA for mobile clients](https://sbakiras.github.io/papers/adhoc_dsa.pdf),” in _Ad Hoc Networks_, 59:71-85, May 2017. 
+E. Troja and S. Bakiras, “[Optimizing privacy-preserving DSA for mobile clients](https://sbakiras.github.io/papers/adhoc_dsa.pdf),” in _Ad Hoc Networks_, 59:71-85, 2017. 
 
-B. Mu and S. Bakiras, “[Private proximity detection for convex polygons](https://sbakiras.github.io/papers/tst-ppd.pdf),” in _Tsinghua Science and Technology_, 21(3):270-280, June 2016. 
+B. Mu and S. Bakiras, “[Private proximity detection for convex polygons](https://sbakiras.github.io/papers/tst-ppd.pdf),” in _Tsinghua Science and Technology_, 21(3):270-280, 2016. 
 
-E. Troja and S. Bakiras, “[Leveraging P2P interactions for efficient location privacy in database-driven dynamic spectrum access](https://sbakiras.github.io/papers/ijns_p2p.pdf),” in _International Journal of Network Security (IJNS)_, 17(5):569-579, September 2015.
+E. Troja and S. Bakiras, “[Leveraging P2P interactions for efficient location privacy in database-driven dynamic spectrum access](https://sbakiras.github.io/papers/ijns_p2p.pdf),” in _International Journal of Network Security (IJNS)_, 17(5):569-579, 2015.
 
-L. Hu, W.-S. Ku, S. Bakiras, and C. Shahabi, “[Spatial query integrity with Voronoi neighbors](https://sbakiras.github.io/papers/tkde_vn.pdf),” in _IEEE Transactions on Knowledge and Data Engineering (TKDE)_, 25(4):863-876, April 2013. 
+L. Hu, W.-S. Ku, S. Bakiras, and C. Shahabi, “[Spatial query integrity with Voronoi neighbors](https://sbakiras.github.io/papers/tkde_vn.pdf),” in _IEEE Transactions on Knowledge and Data Engineering (TKDE)_, 25(4):863-876, 2013. 
 
-S. Papadopoulos, S. Bakiras, and D. Papadias, “[pCloud: A distributed system for practical PIR](https://sbakiras.github.io/papers/tdsc_pcloud.pdf),” in _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 9(1):115-127, January 2012. 
+S. Papadopoulos, S. Bakiras, and D. Papadias, “[pCloud: A distributed system for practical PIR](https://sbakiras.github.io/papers/tdsc_pcloud.pdf),” in _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 9(1):115-127, 2012. 
 
-S. Papadopoulos, S. Bakiras, and D. Papadias, “[Nearest neighbor search with strong location privacy](https://sbakiras.github.io/papers/vldb10.pdf),” in _PVLDB_, 3(1): 619-629, September 2010. 
+S. Papadopoulos, S. Bakiras, and D. Papadias, “[Nearest neighbor search with strong location privacy](https://sbakiras.github.io/papers/vldb10.pdf),” in _PVLDB_, 3(1): 619-629, 2010. 
 
-K. Mouratidis, S. Bakiras, and D. Papadias, “[Continuous monitoring of spatial queries in wireless broadcast environments](https://sbakiras.github.io/papers/tmc_bgi.pdf),” in _IEEE Transactions on Mobile Computing (TMC)_, 8(10):1297-1311, October 2009. 
+K. Mouratidis, S. Bakiras, and D. Papadias, “[Continuous monitoring of spatial queries in wireless broadcast environments](https://sbakiras.github.io/papers/tmc_bgi.pdf),” in _IEEE Transactions on Mobile Computing (TMC)_, 8(10):1297-1311, 2009. 
 
-M. L. Yiu, N. Mamoulis, and S. Bakiras, “[Retrieval of spatial join pattern instances from sensor networks](https://sbakiras.github.io/papers/geo_sensor.pdf),” in _GeoInformatica_, 13(1):57-84, March 2009. 
+M. L. Yiu, N. Mamoulis, and S. Bakiras, “[Retrieval of spatial join pattern instances from sensor networks](https://sbakiras.github.io/papers/geo_sensor.pdf),” in _GeoInformatica_, 13(1):57-84, 2009. 
 
-S. Bakiras, F. Wang, D. Papadias, and M. Hamdi, “[Vertical dimensioning: A novel DRR implementation for efficient fair queueing](https://sbakiras.github.io/papers/comcom_vd.pdf),” in _Computer Communications_, 31(14):3476-3484, September 2008. 
+S. Bakiras, F. Wang, D. Papadias, and M. Hamdi, “[Vertical dimensioning: A novel DRR implementation for efficient fair queueing](https://sbakiras.github.io/papers/comcom_vd.pdf),” in _Computer Communications_, 31(14):3476-3484, 2008. 
 
-Z. Zhu, P. Kalnis, and S. Bakiras, “[DCMP: A distributed cycle minimization protocol for peer-to-peer networks](https://sbakiras.github.io/papers/tpds_dcmp.pdf),” in _IEEE Transactions on Parallel and Distributed Systems (TPDS)_, 19(3):363-377, March 2008. 
+Z. Zhu, P. Kalnis, and S. Bakiras, “[DCMP: A distributed cycle minimization protocol for peer-to-peer networks](https://sbakiras.github.io/papers/tpds_dcmp.pdf),” in _IEEE Transactions on Parallel and Distributed Systems (TPDS)_, 19(3):363-377, 2008. 
 
-K. Mouratidis, D. Papadias, S. Bakiras, and Y. Tao, “[A threshold-based algorithm for continuous monitoring of k nearest neighbors](https://sbakiras.github.io/papers/tkde05.pdf),” in _IEEE Transactions on Knowledge and Data Engineering (TKDE)_, 17(11):1451-1464, November 2005. 
+K. Mouratidis, D. Papadias, S. Bakiras, and Y. Tao, “[A threshold-based algorithm for continuous monitoring of k nearest neighbors](https://sbakiras.github.io/papers/tkde05.pdf),” in _IEEE Transactions on Knowledge and Data Engineering (TKDE)_, 17(11):1451-1464, 2005. 
 
-S. Bakiras, T. Loukopoulos, D. Papadias, and I. Ahmad, “[Adaptive schemes for distributed web caching](https://sbakiras.github.io/papers/jpdc05.pdf),” in _Journal of Parallel and Distributed Computing (JPDC)_, 65(12):1483-1496, December 2005. 
+S. Bakiras, T. Loukopoulos, D. Papadias, and I. Ahmad, “[Adaptive schemes for distributed web caching](https://sbakiras.github.io/papers/jpdc05.pdf),” in _Journal of Parallel and Distributed Computing (JPDC)_, 65(12):1483-1496, 2005. 
 
-S. Bakiras and T. Loukopoulos, “[Combining replica placement and caching techniques in content distribution networks](https://sbakiras.github.io/papers/comcom_cdn.pdf),” in _Computer Communications_, 28(9):1062-1073, June 2005. 
+S. Bakiras and T. Loukopoulos, “[Combining replica placement and caching techniques in content distribution networks](https://sbakiras.github.io/papers/comcom_cdn.pdf),” in _Computer Communications_, 28(9):1062-1073, 2005. 
 
-S. Bakiras and V. O. K. Li, “[A scalable architecture for end-to-end QoS provisioning](https://sbakiras.github.io/papers/e2e.pdf),” in _Computer Communications_, 27(13):1330-1340, August 2004. 
+S. Bakiras and V. O. K. Li, “[A scalable architecture for end-to-end QoS provisioning](https://sbakiras.github.io/papers/e2e.pdf),” in _Computer Communications_, 27(13):1330-1340, 2004. 
 
-S. Bakiras and V. O. K. Li, “[Maximizing the number of users in an interactive video-on-demand system](https://sbakiras.github.io/papers/itob02.pdf),” in _IEEE Transactions on Broadcasting_, 48(4):281-292, December 2002. 
+S. Bakiras and V. O. K. Li, “[Maximizing the number of users in an interactive video-on-demand system](https://sbakiras.github.io/papers/itob02.pdf),” in _IEEE Transactions on Broadcasting_, 48(4):281-292, 2002. 
 
 
 ## Conference proceedings 
