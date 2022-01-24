@@ -14,9 +14,9 @@ N. Mamoulis, S. Bakiras, and P. Kalnis, "Top-k OLAP queries using augmented spat
 
 ## Journal papers 
 
-H. Al-Shaibani, N. Lasla, M. Abdallah, and S. Bakiras, “[Privacy-preserving framework for blockchain-based stock exchange platform](https://sbakiras.github.io/papers/access-se.pdf),” in _IEEE Access_, 10:1202-1215, 2022.
-
 P. Tedeschi, K. Jeon, J. She, S. Wong, S. Bakiras, and R. Di Pietro, “[Privacy-preserving and sustainable contact tracing using batteryless BLE beacons](https://sbakiras.github.io/papers/sp-ble.pdf),” in _IEEE Security & Privacy_, to appear.
+
+H. Al-Shaibani, N. Lasla, M. Abdallah, and S. Bakiras, “[Privacy-preserving framework for blockchain-based stock exchange platform](https://sbakiras.github.io/papers/access-se.pdf),” in _IEEE Access_, 10:1202-1215, 2022.
 
 M. Baza, A. Sherif, M. Mahmoud, S. Bakiras, W. Alasmary, M. Abdallah, and X. Lin, “[Privacy-preserving blockchain-based energy trading schemes for electric vehicles](https://sbakiras.github.io/papers/tvt-ev.pdf),” in _IEEE Transactions on Vehicular Technology_ 70(9):9369-9384, 2021.
 
