@@ -16,6 +16,26 @@ author_profile: true
 
 ## Program committee memberships
 
+**2026**
+* IEEE International Conference on Mobile Data Management (MDM)
+
+**2025**
+* IEEE Global Communications Conference (GLOBECOM)
+* International Symposium on Spatial and Temporal Databases (SSTD)
+* Global Information Infrastructure and Networking Symposium (GIIS)
+
+**2024**
+* IEEE Global Communications Conference (GLOBECOM)
+
+**2023**
+* IEEE Global Communications Conference (GLOBECOM)
+* International Symposium on Spatial and Temporal Databases (SSTD)
+
+**2022**
+* European Symposium on Research in Computer Security (ESORICS)
+* IEEE Global Communications Conference (GLOBECOM)
+* IEEE International Smart Cities Conference (ISC2)
+
 **2021**
 * International Symposium on Spatial and Temporal Databases (SSTD)
 * International Conference on Database Systems for Advanced Applications (DASFAA)
