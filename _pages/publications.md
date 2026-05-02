@@ -7,14 +7,28 @@ author_profile: true
 
 ## Book chapters 
 
-S. Bakiras, "Anonymous communications over delay tolerant networks," in _Encyclopedia of Cryptography and Security_, Springer, to appear.
+S. Bakiras, "Anonymous communications over delay tolerant networks," in _Encyclopedia of Cryptography and Security_, Springer, pp. 83-85, 2025.
 
 N. Mamoulis, S. Bakiras, and P. Kalnis, "Top-k OLAP queries using augmented spatial access methods," in _Encyclopedia of GIS_, Springer, pp. 1156-1161, 2008. 
 
 
 ## Journal papers 
 
-P. Tedeschi, K. Jeon, J. She, S. Wong, S. Bakiras, and R. Di Pietro, “[Privacy-preserving and sustainable contact tracing using batteryless BLE beacons](https://sbakiras.github.io/papers/sp-ble.pdf),” in _IEEE Security & Privacy_, to appear.
+A. K. Abdulla, G. Oligeri, and S. Bakiras, “Location-based access control system for mobile devices using bluetooth low energy technology,” in _Journal of Computer Security_, to appear.
+
+K. Al-Mannai, E. Bentafat, S. Bakiras, and J. Schneider, “[Secure biometric verification in the presence of malicious adversaries](https://sbakiras.github.io/papers/access-auth.pdf),” in _IEEE Access_, 13: 5284–5295, 2025.
+
+M. M. Rathore, E. Bentafat, and S. Bakiras, “[Towards a scalable and privacy-preserving audio surveillance system](https://sbakiras.github.io/papers/taslp-audio.pdf),” in _IEEE Transactions on Audio, Speech and Language Processing_, 33: 186–198, 2024.
+
+K. Al-Mannai, K. A. Al-Thelaya, J. Schneider, and S. Bakiras, “[Multimodal face data sets – a survey of technologies, applications, and contents](https://sbakiras.github.io/papers/access-multimodal.pdf),” in _IEEE Access_, 12: 183616–183657, 2024.
+
+M. Rabhi, S. Bakiras, and R. Di Pietro, “[Audio-deepfake detection: adversarial attacks and countermeasures](https://sbakiras.github.io/papers/expert-deepfake.pdf),” in _Expert Systems with Applications_, 250: 123941, 2024.
+
+P. Tedeschi, S. Bakiras, and R. Di Pietro, “[SpreadMeNot: A provably secure and privacy-preserving contact tracing protocol](https://sbakiras.github.io/papers/tdsc-spreadmenot.pdf),” in _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 20(3): 2500–2515, 2023.
+
+A. K. Abdulla, S. Bakiras, and J. She, “[ICMS: A flexible location-based access control system for mobile devices](https://sbakiras.github.io/papers/systems-icms.pdf),” in _IEEE Systems Journal_, 17(1): 1536–1547, 2023.
+
+P. Tedeschi, K. Jeon, J. She, S. Wong, S. Bakiras, and R. Di Pietro, “[Privacy-preserving and sustainable contact tracing using batteryless BLE beacons](https://sbakiras.github.io/papers/sp-ble.pdf),” in _IEEE Security & Privacy_, 20(3): 91–100, 2022.
 
 H. Al-Shaibani, N. Lasla, M. Abdallah, and S. Bakiras, “[Privacy-preserving framework for blockchain-based stock exchange platform](https://sbakiras.github.io/papers/access-se.pdf),” in _IEEE Access_, 10:1202-1215, 2022.
 
@@ -64,6 +78,14 @@ S. Bakiras and V. O. K. Li, “[Maximizing the number of users in an interactive
 
 
 ## Conference proceedings 
+
+M. Caprolu, E. Bentafat, S. Bakiras, and R. Di Pietro, “[UBIC–a blockchain-less cryptocurrency](https://sbakiras.github.io/papers/dapps23.pdf),” in _Proc. IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS)_, July 2023.
+
+[R. Zhou, H. Guo, F. E. C. Teo, and S. Bakiras, “[A survey on post-quantum cryptography for 5G/6G communications](https://sbakiras.github.io/papers/soli23.pdf),” in _Proc. IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI)_, December 2023.
+[
+N. Fares, B. Wang, and S. Bakiras, “[Design and implementation of certificateless cryptography for IoT applications](https://sbakiras.github.io/papers/mwscas23.pdf),” in _Proc. IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)_, August 2023.
+
+M. Rabhi, S. Bakiras, and R. Di Pietro, “FN2: fake news detection based on textual and contextual features,” in _Proc. International Conference on Information and Communications Security (ICICS)_, September 2022.
 
 E. Bentafat, M. M. Rathore, and S. Bakiras, “[Privacy-preserving traffic flow estimation for road networks](https://sbakiras.github.io/papers/globecom20.pdf),” in _Proc. IEEE Global Communications Conference (GLOBECOM)_, December 2020.
 
