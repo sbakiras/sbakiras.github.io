@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](https://sbakiras.github.io/CV-Bakiras.pdf), last updated on Apr 4, 2021.
+[CV](https://sbakiras.github.io/CV-Bakiras.pdf), last updated on May 2, 2026.
