@@ -81,8 +81,8 @@ S. Bakiras and V. O. K. Li, “[Maximizing the number of users in an interactive
 
 M. Caprolu, E. Bentafat, S. Bakiras, and R. Di Pietro, “[UBIC–a blockchain-less cryptocurrency](https://sbakiras.github.io/papers/dapps23.pdf),” in _Proc. IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS)_, July 2023.
 
-[R. Zhou, H. Guo, F. E. C. Teo, and S. Bakiras, “[A survey on post-quantum cryptography for 5G/6G communications](https://sbakiras.github.io/papers/soli23.pdf),” in _Proc. IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI)_, December 2023.
-[
+R. Zhou, H. Guo, F. E. C. Teo, and S. Bakiras, “[A survey on post-quantum cryptography for 5G/6G communications](https://sbakiras.github.io/papers/soli23.pdf),” in _Proc. IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI)_, December 2023.
+
 N. Fares, B. Wang, and S. Bakiras, “[Design and implementation of certificateless cryptography for IoT applications](https://sbakiras.github.io/papers/mwscas23.pdf),” in _Proc. IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)_, August 2023.
 
 M. Rabhi, S. Bakiras, and R. Di Pietro, “FN2: fake news detection based on textual and contextual features,” in _Proc. International Conference on Information and Communications Security (ICICS)_, September 2022.
